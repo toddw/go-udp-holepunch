@@ -2,6 +2,8 @@
 This is a very simple repo to help demonstrate how UDP hole punching works in
 Go. It includes the signal server and a client.
 
+![Demo](/demo.gif "Demo")
+
 ## Usage
 1. Set up signal server on a publicly accessible server.
 ```
